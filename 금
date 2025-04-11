@@ -1,1 +1,7 @@
+# Stack/Queue
 
+## 2025.04.11
+### 문제 설명: 문서마다 중요도가 다를 때, 내가 요청한 문서는 몇 번째로 출력될까?
+### 자료구조: 큐 + 우선순위 개념
+### 기출: 카카오
+### https://school.programmers.co.kr/learn/courses/30/lessons/42587
